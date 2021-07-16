@@ -1,2 +1,0 @@
-# EnvanterYonetimi
-envanter yonetim uygulaması
